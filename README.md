@@ -58,7 +58,8 @@ Prereqs for osTicket Install:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="584" alt="IIS osTicket install" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/e5ebf372-3b3b-4c0d-b961-1d3e3501f487">
+
 </p>
 <p>
 Install osTicket v1.15.8
