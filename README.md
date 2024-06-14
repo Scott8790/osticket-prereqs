@@ -64,6 +64,10 @@ Prereqs for osTicket Install:
 <img width="1619" alt="IIS osTicket install2" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/005ecef1-7137-4275-b3fb-a8db42bfcdc5">
 
 <p>
+  <img width="1003" alt="IIS osTicket install3" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/3b14e4b3-7833-47dd-8f87-680cf7e458d5">
+
+<img width="1603" alt="IIS osTicket install4" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/d0760690-edc3-4761-a59e-b01ebdcfb116">
+
 Install osTicket v1.15.8
 Download osTicket from the Installation Files Folder
 Extract and copy “upload” folder to c:\inetpub\wwwroot
