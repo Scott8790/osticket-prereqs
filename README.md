@@ -38,6 +38,8 @@ Within your created resource group, you create the virtual machine. Make sure to
 <p>
 <img width="403" alt="image" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/522dcdcc-7ea2-4622-acb0-157388798c52">
 
+<img width="834" alt="IIS osTicket prereq" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/2ac7c2e1-52fa-4e76-9130-b0b0f5732430">
+
 </p>
 <p>
 Prereqs for osTicket Install:
