@@ -61,6 +61,8 @@ Prereqs for osTicket Install:
 <img width="584" alt="IIS osTicket install" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/e5ebf372-3b3b-4c0d-b961-1d3e3501f487">
 
 </p>
+<img width="1619" alt="IIS osTicket install2" src="https://github.com/Scott8790/osticket-prereqs/assets/172638339/005ecef1-7137-4275-b3fb-a8db42bfcdc5">
+
 <p>
 Install osTicket v1.15.8
 Download osTicket from the Installation Files Folder
